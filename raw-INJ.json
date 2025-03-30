@@ -1,0 +1,1034 @@
+{
+    "id": "",
+    "blockNumber": 97174643,
+    "blockTimestamp": "2024-12-04 20:35:54.079 +0000 UTC",
+    "hash": "0x5cc0bc3ccbbc7127a7cfe65b863a74550454b464957af6bbf1b2a54d6e98b3d5",
+    "code": 0,
+    "info": "",
+    "memo": "",
+    "gasWanted": 1156782,
+    "gasFee": {
+      "amounts": [
+        {
+          "denom": "inj",
+          "amount": "185085120000000"
+        }
+      ],
+      "gasLimit": 1156782,
+      "payer": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+      "granter": ""
+    },
+    "gasUsed": 828073,
+    "codespace": "",
+    "signatures": [
+      {
+        "pubkey": "0296242bc80181901fea275cc5158b733738a70c60c0315d21b3301de1e99acfd7",
+        "address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+        "sequence": 111,
+        "signature": "AjVv9vLotCCBIrY6+ymOCeCaNzxbeKzlQKhWQ/ZRE+ZJANAsKW9/U/9Ax7+GpQl9sWY6nDFvg0y/OEFwFGPZehs="
+      }
+    ],
+    "txType": "injective-web3",
+    "data": "EmIKPy9jb3Ntb3MuZGlzdHJpYnV0aW9uLnYxYmV0YTEuTXNnV2l0aGRyYXdEZWxlZ2F0b3JSZXdhcmRSZXNwb25zZRIfCh0KA2luahIWMzI4NTY2Njc0MDg2ODAzOTEwMzI4MRJhCj8vY29zbW9zLmRpc3RyaWJ1dGlvbi52MWJldGExLk1zZ1dpdGhkcmF3RGVsZWdhdG9yUmV3YXJkUmVzcG9uc2USHgocCgNpbmoSFTczMzUzMDMzNjk4Mzg3ODIwNzU0MhJiCj8vY29zbW9zLmRpc3RyaWJ1dGlvbi52MWJldGExLk1zZ1dpdGhkcmF3RGVsZWdhdG9yUmV3YXJkUmVzcG9uc2USHwodCgNpbmoSFjEwOTA3NTIzNzgxMDU0MTE1OTI1NzESYQo/L2Nvc21vcy5kaXN0cmlidXRpb24udjFiZXRhMS5Nc2dXaXRoZHJhd0RlbGVnYXRvclJld2FyZFJlc3BvbnNlEh4KHAoDaW5qEhU0ODk4NDExODg3NDU1NTI1NjQyMzcSYQo/L2Nvc21vcy5kaXN0cmlidXRpb24udjFiZXRhMS5Nc2dXaXRoZHJhd0RlbGVnYXRvclJld2FyZFJlc3BvbnNlEh4KHAoDaW5qEhU3MzIwMTA0NjMwNDcwNzQyODU1MzESYQo/L2Nvc21vcy5kaXN0cmlidXRpb24udjFiZXRhMS5Nc2dXaXRoZHJhd0RlbGVnYXRvclJld2FyZFJlc3BvbnNlEh4KHAoDaW5qEhU2NDIwNTg4Nzg4MTE0MDI1Mjg0MjQSYQo/L2Nvc21vcy5kaXN0cmlidXRpb24udjFiZXRhMS5Nc2dXaXRoZHJhd0RlbGVnYXRvclJld2FyZFJlc3BvbnNlEh4KHAoDaW5qEhU2NjEwNzE0NTA4MjMyNjM0OTE2NTg=",
+    "events": [],
+    "messages": [
+      {
+        "type": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "message": {
+          "delegator_address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+          "validator_address": "injvaloper1g4d6dmvnpg7w7yugy6kplndp7jpfmf3krtschp"
+        }
+      },
+      {
+        "type": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "message": {
+          "delegator_address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+          "validator_address": "injvaloper1ffsdugrhfzdyxltjve8v68n6aazyc6p97uhfn0"
+        }
+      },
+      {
+        "type": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "message": {
+          "delegator_address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+          "validator_address": "injvaloper14w4qu60azpz5zkw5yrcvmaxqh6xg5sny7qm6rm"
+        }
+      },
+      {
+        "type": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "message": {
+          "delegator_address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+          "validator_address": "injvaloper14ncezrfu3hxauehjntf6pdpme7l5etqsep2qp6"
+        }
+      },
+      {
+        "type": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "message": {
+          "delegator_address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+          "validator_address": "injvaloper1hsxaln75wjs033t3spd8a0gawl4jvxawn6v849"
+        }
+      },
+      {
+        "type": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "message": {
+          "delegator_address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+          "validator_address": "injvaloper1h4t5dqenq86znza06thc64pzyxtme7zltyeg8k"
+        }
+      },
+      {
+        "type": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "message": {
+          "delegator_address": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+          "validator_address": "injvaloper1acgud5qpn3frwzjrayqcdsdr9vkl3p6hrz34ts"
+        }
+      }
+    ],
+    "logs": [
+      {
+        "msg_index": "0",
+        "events": [
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "action",
+                "value": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "module",
+                "value": "distribution",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "0",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_spent",
+            "attributes": [
+              {
+                "key": "spender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "3285666740868039103281inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "0",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_received",
+            "attributes": [
+              {
+                "key": "receiver",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "3285666740868039103281inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "0",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "transfer",
+            "attributes": [
+              {
+                "key": "recipient",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "3285666740868039103281inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "0",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "0",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "withdraw_rewards",
+            "attributes": [
+              {
+                "key": "amount",
+                "value": "3285666740868039103281inj",
+                "index": true
+              },
+              {
+                "key": "validator",
+                "value": "injvaloper1g4d6dmvnpg7w7yugy6kplndp7jpfmf3krtschp",
+                "index": true
+              },
+              {
+                "key": "delegator",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "0",
+                "index": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "msg_index": "1",
+        "events": [
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "action",
+                "value": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "module",
+                "value": "distribution",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "1",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_spent",
+            "attributes": [
+              {
+                "key": "spender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "733530336983878207542inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "1",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_received",
+            "attributes": [
+              {
+                "key": "receiver",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "733530336983878207542inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "1",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "transfer",
+            "attributes": [
+              {
+                "key": "recipient",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "733530336983878207542inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "1",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "1",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "withdraw_rewards",
+            "attributes": [
+              {
+                "key": "amount",
+                "value": "733530336983878207542inj",
+                "index": true
+              },
+              {
+                "key": "validator",
+                "value": "injvaloper1ffsdugrhfzdyxltjve8v68n6aazyc6p97uhfn0",
+                "index": true
+              },
+              {
+                "key": "delegator",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "1",
+                "index": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "msg_index": "2",
+        "events": [
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "action",
+                "value": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "module",
+                "value": "distribution",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "2",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_spent",
+            "attributes": [
+              {
+                "key": "spender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "1090752378105411592571inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "2",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_received",
+            "attributes": [
+              {
+                "key": "receiver",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "1090752378105411592571inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "2",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "transfer",
+            "attributes": [
+              {
+                "key": "recipient",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "1090752378105411592571inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "2",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "2",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "withdraw_rewards",
+            "attributes": [
+              {
+                "key": "amount",
+                "value": "1090752378105411592571inj",
+                "index": true
+              },
+              {
+                "key": "validator",
+                "value": "injvaloper14w4qu60azpz5zkw5yrcvmaxqh6xg5sny7qm6rm",
+                "index": true
+              },
+              {
+                "key": "delegator",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "2",
+                "index": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "msg_index": "3",
+        "events": [
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "action",
+                "value": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "module",
+                "value": "distribution",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "3",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_spent",
+            "attributes": [
+              {
+                "key": "spender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "489841188745552564237inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "3",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_received",
+            "attributes": [
+              {
+                "key": "receiver",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "489841188745552564237inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "3",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "transfer",
+            "attributes": [
+              {
+                "key": "recipient",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "489841188745552564237inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "3",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "3",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "withdraw_rewards",
+            "attributes": [
+              {
+                "key": "amount",
+                "value": "489841188745552564237inj",
+                "index": true
+              },
+              {
+                "key": "validator",
+                "value": "injvaloper14ncezrfu3hxauehjntf6pdpme7l5etqsep2qp6",
+                "index": true
+              },
+              {
+                "key": "delegator",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "3",
+                "index": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "msg_index": "4",
+        "events": [
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "action",
+                "value": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "module",
+                "value": "distribution",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "4",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_spent",
+            "attributes": [
+              {
+                "key": "spender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "732010463047074285531inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "4",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_received",
+            "attributes": [
+              {
+                "key": "receiver",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "732010463047074285531inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "4",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "transfer",
+            "attributes": [
+              {
+                "key": "recipient",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "732010463047074285531inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "4",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "4",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "withdraw_rewards",
+            "attributes": [
+              {
+                "key": "amount",
+                "value": "732010463047074285531inj",
+                "index": true
+              },
+              {
+                "key": "validator",
+                "value": "injvaloper1hsxaln75wjs033t3spd8a0gawl4jvxawn6v849",
+                "index": true
+              },
+              {
+                "key": "delegator",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "4",
+                "index": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "msg_index": "5",
+        "events": [
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "action",
+                "value": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "module",
+                "value": "distribution",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "5",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_spent",
+            "attributes": [
+              {
+                "key": "spender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "642058878811402528424inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "5",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_received",
+            "attributes": [
+              {
+                "key": "receiver",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "642058878811402528424inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "5",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "transfer",
+            "attributes": [
+              {
+                "key": "recipient",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "642058878811402528424inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "5",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "5",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "withdraw_rewards",
+            "attributes": [
+              {
+                "key": "amount",
+                "value": "642058878811402528424inj",
+                "index": true
+              },
+              {
+                "key": "validator",
+                "value": "injvaloper1h4t5dqenq86znza06thc64pzyxtme7zltyeg8k",
+                "index": true
+              },
+              {
+                "key": "delegator",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "5",
+                "index": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "msg_index": "6",
+        "events": [
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "action",
+                "value": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "module",
+                "value": "distribution",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "6",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_spent",
+            "attributes": [
+              {
+                "key": "spender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "661071450823263491658inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "6",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "coin_received",
+            "attributes": [
+              {
+                "key": "receiver",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "661071450823263491658inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "6",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "transfer",
+            "attributes": [
+              {
+                "key": "recipient",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "amount",
+                "value": "661071450823263491658inj",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "6",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "message",
+            "attributes": [
+              {
+                "key": "sender",
+                "value": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "6",
+                "index": true
+              }
+            ]
+          },
+          {
+            "type": "withdraw_rewards",
+            "attributes": [
+              {
+                "key": "amount",
+                "value": "661071450823263491658inj",
+                "index": true
+              },
+              {
+                "key": "validator",
+                "value": "injvaloper1acgud5qpn3frwzjrayqcdsdr9vkl3p6hrz34ts",
+                "index": true
+              },
+              {
+                "key": "delegator",
+                "value": "inj19u2t52ee57yjljz0804cu5f9pwm3yeny37hx4q",
+                "index": true
+              },
+              {
+                "key": "msg_index",
+                "value": "6",
+                "index": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "errorLog": "",
+    "claimIds": []
+  }
